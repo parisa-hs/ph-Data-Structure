@@ -20,7 +20,7 @@ class stack :
          
 
 
-
+ 
 
 
 test = stack(10)
