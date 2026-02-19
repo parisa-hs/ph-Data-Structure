@@ -5,4 +5,4 @@ for i in range (n):
     t=l+6
 l = 2 + l
 
-F(n) = 2 n + 2
+F(n) = 2 n + 2 
