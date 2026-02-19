@@ -27,7 +27,7 @@ class C_Queue:
         self.front = (self.front +1) % len (self.list)
         return k
     def is_empty(self):
-        return self.front == -1
+        return self.front == -1 
     
     def is_full(self):
         return (self.rear +1) % len (self.list) == self.front
