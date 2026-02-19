@@ -4,7 +4,7 @@ class node :
         self.Data = d
         self.next = None
 
-
+ 
 
 
 class linked_list :
