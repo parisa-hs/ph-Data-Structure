@@ -25,7 +25,7 @@ class Queue:
             return k
         k = self.list[self.front]
         self.front+= 1
-        return k
+        return k 
     
 
 
