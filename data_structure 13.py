@@ -3,7 +3,7 @@ class dnode():
         self.Data = x
         self.next = None
         self.back = None
-
+ 
 
 class dlinked_list :
     def __init__(self):
