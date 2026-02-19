@@ -4,7 +4,7 @@ class dnode():
         self.next = None
         self.back = None
 
-
+ 
 class dlinked_list :
     def __init__(self):
         self.head = None
